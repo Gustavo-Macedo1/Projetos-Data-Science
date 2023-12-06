@@ -1,4 +1,4 @@
-# Notebooks autorais - Ciencia de Dados
+# Projetos e Guias - Ciência de Dados
 
 ## O que é?
 
@@ -25,7 +25,7 @@ Nesse repositório, os notebooks estão organizados de forma a aplicar exemplos 
 
 ---
 
-# Authoral notebooks - Data Science
+# Projects and Guides - Data Science
 
 ## What is this repository?
 
