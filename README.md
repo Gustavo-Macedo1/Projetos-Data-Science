@@ -21,6 +21,7 @@ Nesse repositório, os notebooks estão organizados de forma a aplicar exemplos 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width=150px> | Pandas | Biblioteca Python com foco em tratamento e manipulação de dados tabulares
 <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width=150px> | Seaborn | Biblioteca Python com foco em visualização interrelacional de dados
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width=150px> | Scikit Learn | Biblioteca Python com foco em aplicação de modelos de Machine Learning
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width=150px> | Numpy | Biblioteca Python com foco em manipulação numérica de alta eficiência
 
 ---
 
@@ -45,3 +46,4 @@ In this repository, the notebooks are organized in a way that applies practical 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width=150px> | Pandas | Python library that focus on manipulation and treatment of tabular data
 <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width=150px> | Seaborn | Python library focused on interrelational data visualization
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width=150px> | Scikit Learn | Python library focused on training and applying Machine Learning models
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width=150px> | Numpy | Python library focused on high efficiency numerical manipulation
